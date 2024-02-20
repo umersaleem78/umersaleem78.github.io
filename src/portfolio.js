@@ -108,7 +108,7 @@ const educationInfo = {
       duration: "September 2015 - January 2020",
       desc: "",
       descBullets: [
-        "Developed Electronic Voting Machine on Java as Final Year Project"
+        "Developed Electronic Voting Machine on Java as Final Year Project."
       ]
     }
   ]
