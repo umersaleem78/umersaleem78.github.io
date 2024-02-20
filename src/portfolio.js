@@ -102,7 +102,7 @@ const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
     {
-      schoolName: "COMSATS University,",
+      schoolName: "COMSATS University",
       logo: require("./assets/images/comsats.jpeg"),
       subHeader: "Bachelor of Science in Computer Science",
       duration: "September 2015 - January 2020",
