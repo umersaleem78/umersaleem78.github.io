@@ -147,8 +147,8 @@ const workExperiences = {
       date: "Oct 2022 – Present",
       desc: "Developing existing & new applications, adding new features & fixing bugs.",
       descBullets: [
-        
-        
+
+
       ]
     },
     {
@@ -157,7 +157,7 @@ const workExperiences = {
       companylogo: require("./assets/images/ili_digital_logo.jpeg"),
       date: "Oct 2020 – Sep 2022",
       desc: "",
-      descBullets:[
+      descBullets: [
         "Developed mobile & TV application for Bundesliga 2. club",
         "Developed single & multi player quiz application"
       ]
@@ -168,7 +168,7 @@ const workExperiences = {
       companylogo: require("./assets/images/myglu.jpeg"),
       date: "Nov 2019 – Oct 2020",
       desc: "",
-      descBullets:[
+      descBullets: [
         "Developed food product applications for consumer, rider & merchant",
         "Integrated Printer SDK & innowi payment gateway"
       ]
@@ -261,7 +261,7 @@ const achievementSection = {
       image: require("./assets/images/pwaLogo.webp"),
       imageAlt: "PWA Logo",
       footerLink: [
-        {name: "Certification", url: ""},
+        { name: "Certification", url: "" },
         {
           name: "Final Project",
           url: "https://pakistan-olx-1.firebaseapp.com/"
